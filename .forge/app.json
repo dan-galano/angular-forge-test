@@ -1,0 +1,1 @@
+{"build_kind":"angular","dev_cmd":["npx","--no","ng","serve","--port","4200"],"dockerfile_origin":"forge","dockerfile_sha256":"8205f9ec809ed57c04c1f6feefc2d2fea914cd1d3954f2849d47046afbc049fe","forge_app_id":"01a0ae9b-398d-7acd-9b59-b3f90682af22","import_mode":"managed","imported_at":"2026-09-17T09:03:25Z","internal_port":4200}
