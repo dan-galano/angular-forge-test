@@ -1,0 +1,15 @@
+{
+  "import_mode": "managed",
+  "build_kind": "angular",
+  "imported_at": "2026-09-17T09:03:25Z",
+  "forge_app_id": "01a0ae9b-398d-7acd-9b59-b3f90682af22",
+  "dev_cmd": [
+    "npx",
+    "--no",
+    "ng",
+    "serve",
+    "--port",
+    "4200"
+  ],
+  "internal_port": 4200
+}
